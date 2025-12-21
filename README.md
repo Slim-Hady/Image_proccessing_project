@@ -28,3 +28,4 @@ source venv/bin/activate.fish
 ```
 source venv/bin/activate
 ```
+then Download Flask and libraries and run the server
